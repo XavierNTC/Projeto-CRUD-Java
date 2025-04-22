@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Prj_Pedido">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Prj_Pedido/Prj_Pedido/dist/Prj_Pedido.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
